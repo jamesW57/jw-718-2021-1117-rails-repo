@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+rails new hr
+1.36 bundle update
+rails g scaffold Resume firstname lastname photourl jobtitle location email phone
+rails db:migrate
+V cd ~/environment// V rails server
+https://rails/info/routes
+https://resumes
+https://resumes/new
+https://www.w3schools.com/w3css/w3css_templates.asp
